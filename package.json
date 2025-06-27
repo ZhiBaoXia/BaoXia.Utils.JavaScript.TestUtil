@@ -1,6 +1,6 @@
 {
   "name": "@baoxia/utils.javascript.testutil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BaoXia Software Javascript Utils Set，includes commonly used utility components such as StringUtil, ArrayUtil, DateTime.",
   "type": "module",
   "files": [
